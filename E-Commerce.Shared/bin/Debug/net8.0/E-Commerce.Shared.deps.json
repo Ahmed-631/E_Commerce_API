@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "E-Commerce.Shared/1.0.0": {
+        "runtime": {
+          "E-Commerce.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "E-Commerce.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

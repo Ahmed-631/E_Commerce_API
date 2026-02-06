@@ -1,0 +1,5 @@
+@E_Commerce.Web_HostAddress = http://localhost:5252
+
+###
+GET {{E_Commerce.Web_HostAddress}}/api/Products/22
+Accept: application/json

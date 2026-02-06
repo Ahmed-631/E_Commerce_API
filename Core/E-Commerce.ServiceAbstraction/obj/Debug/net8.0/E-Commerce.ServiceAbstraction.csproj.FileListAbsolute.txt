@@ -1,0 +1,16 @@
+C:\Users\Al-Quds\source\repos\E-Commerce\Core\E-Commerce.ServiceAbstraction\bin\Debug\net8.0\E-Commerce.ServiceAbstraction.deps.json
+C:\Users\Al-Quds\source\repos\E-Commerce\Core\E-Commerce.ServiceAbstraction\bin\Debug\net8.0\E-Commerce.ServiceAbstraction.dll
+C:\Users\Al-Quds\source\repos\E-Commerce\Core\E-Commerce.ServiceAbstraction\bin\Debug\net8.0\E-Commerce.ServiceAbstraction.pdb
+C:\Users\Al-Quds\source\repos\E-Commerce\Core\E-Commerce.ServiceAbstraction\bin\Debug\net8.0\E-Commerce.Shared.dll
+C:\Users\Al-Quds\source\repos\E-Commerce\Core\E-Commerce.ServiceAbstraction\bin\Debug\net8.0\E-Commerce.Shared.pdb
+C:\Users\Al-Quds\source\repos\E-Commerce\Core\E-Commerce.ServiceAbstraction\obj\Debug\net8.0\E-Commerce.ServiceAbstraction.csproj.AssemblyReference.cache
+C:\Users\Al-Quds\source\repos\E-Commerce\Core\E-Commerce.ServiceAbstraction\obj\Debug\net8.0\E-Commerce.ServiceAbstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Al-Quds\source\repos\E-Commerce\Core\E-Commerce.ServiceAbstraction\obj\Debug\net8.0\E-Commerce.ServiceAbstraction.AssemblyInfoInputs.cache
+C:\Users\Al-Quds\source\repos\E-Commerce\Core\E-Commerce.ServiceAbstraction\obj\Debug\net8.0\E-Commerce.ServiceAbstraction.AssemblyInfo.cs
+C:\Users\Al-Quds\source\repos\E-Commerce\Core\E-Commerce.ServiceAbstraction\obj\Debug\net8.0\E-Commerce.ServiceAbstraction.csproj.CoreCompileInputs.cache
+C:\Users\Al-Quds\source\repos\E-Commerce\Core\E-Commerce.ServiceAbstraction\obj\Debug\net8.0\E-Commerce.ServiceAbstraction.sourcelink.json
+C:\Users\Al-Quds\source\repos\E-Commerce\Core\E-Commerce.ServiceAbstraction\obj\Debug\net8.0\E-Commer.295B57DC.Up2Date
+C:\Users\Al-Quds\source\repos\E-Commerce\Core\E-Commerce.ServiceAbstraction\obj\Debug\net8.0\E-Commerce.ServiceAbstraction.dll
+C:\Users\Al-Quds\source\repos\E-Commerce\Core\E-Commerce.ServiceAbstraction\obj\Debug\net8.0\refint\E-Commerce.ServiceAbstraction.dll
+C:\Users\Al-Quds\source\repos\E-Commerce\Core\E-Commerce.ServiceAbstraction\obj\Debug\net8.0\E-Commerce.ServiceAbstraction.pdb
+C:\Users\Al-Quds\source\repos\E-Commerce\Core\E-Commerce.ServiceAbstraction\obj\Debug\net8.0\ref\E-Commerce.ServiceAbstraction.dll

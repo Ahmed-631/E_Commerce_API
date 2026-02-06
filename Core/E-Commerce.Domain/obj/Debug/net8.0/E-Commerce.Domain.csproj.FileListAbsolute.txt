@@ -1,0 +1,13 @@
+C:\Users\Al-Quds\source\repos\E-Commerce\Core\E-Commerce.Domain\bin\Debug\net8.0\E-Commerce.Domain.deps.json
+C:\Users\Al-Quds\source\repos\E-Commerce\Core\E-Commerce.Domain\bin\Debug\net8.0\E-Commerce.Domain.dll
+C:\Users\Al-Quds\source\repos\E-Commerce\Core\E-Commerce.Domain\bin\Debug\net8.0\E-Commerce.Domain.pdb
+C:\Users\Al-Quds\source\repos\E-Commerce\Core\E-Commerce.Domain\obj\Debug\net8.0\E-Commerce.Domain.csproj.AssemblyReference.cache
+C:\Users\Al-Quds\source\repos\E-Commerce\Core\E-Commerce.Domain\obj\Debug\net8.0\E-Commerce.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Al-Quds\source\repos\E-Commerce\Core\E-Commerce.Domain\obj\Debug\net8.0\E-Commerce.Domain.AssemblyInfoInputs.cache
+C:\Users\Al-Quds\source\repos\E-Commerce\Core\E-Commerce.Domain\obj\Debug\net8.0\E-Commerce.Domain.AssemblyInfo.cs
+C:\Users\Al-Quds\source\repos\E-Commerce\Core\E-Commerce.Domain\obj\Debug\net8.0\E-Commerce.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Al-Quds\source\repos\E-Commerce\Core\E-Commerce.Domain\obj\Debug\net8.0\E-Commerce.Domain.sourcelink.json
+C:\Users\Al-Quds\source\repos\E-Commerce\Core\E-Commerce.Domain\obj\Debug\net8.0\E-Commerce.Domain.dll
+C:\Users\Al-Quds\source\repos\E-Commerce\Core\E-Commerce.Domain\obj\Debug\net8.0\refint\E-Commerce.Domain.dll
+C:\Users\Al-Quds\source\repos\E-Commerce\Core\E-Commerce.Domain\obj\Debug\net8.0\E-Commerce.Domain.pdb
+C:\Users\Al-Quds\source\repos\E-Commerce\Core\E-Commerce.Domain\obj\Debug\net8.0\ref\E-Commerce.Domain.dll

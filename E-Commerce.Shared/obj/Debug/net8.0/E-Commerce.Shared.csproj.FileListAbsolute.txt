@@ -1,0 +1,12 @@
+C:\Users\Al-Quds\source\repos\E-Commerce\E-Commerce.Shared\bin\Debug\net8.0\E-Commerce.Shared.deps.json
+C:\Users\Al-Quds\source\repos\E-Commerce\E-Commerce.Shared\bin\Debug\net8.0\E-Commerce.Shared.dll
+C:\Users\Al-Quds\source\repos\E-Commerce\E-Commerce.Shared\bin\Debug\net8.0\E-Commerce.Shared.pdb
+C:\Users\Al-Quds\source\repos\E-Commerce\E-Commerce.Shared\obj\Debug\net8.0\E-Commerce.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Al-Quds\source\repos\E-Commerce\E-Commerce.Shared\obj\Debug\net8.0\E-Commerce.Shared.AssemblyInfoInputs.cache
+C:\Users\Al-Quds\source\repos\E-Commerce\E-Commerce.Shared\obj\Debug\net8.0\E-Commerce.Shared.AssemblyInfo.cs
+C:\Users\Al-Quds\source\repos\E-Commerce\E-Commerce.Shared\obj\Debug\net8.0\E-Commerce.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Al-Quds\source\repos\E-Commerce\E-Commerce.Shared\obj\Debug\net8.0\E-Commerce.Shared.sourcelink.json
+C:\Users\Al-Quds\source\repos\E-Commerce\E-Commerce.Shared\obj\Debug\net8.0\E-Commerce.Shared.dll
+C:\Users\Al-Quds\source\repos\E-Commerce\E-Commerce.Shared\obj\Debug\net8.0\refint\E-Commerce.Shared.dll
+C:\Users\Al-Quds\source\repos\E-Commerce\E-Commerce.Shared\obj\Debug\net8.0\E-Commerce.Shared.pdb
+C:\Users\Al-Quds\source\repos\E-Commerce\E-Commerce.Shared\obj\Debug\net8.0\ref\E-Commerce.Shared.dll
